@@ -1,0 +1,4 @@
+{"code":500,"level":"error","message":"date is not defined"}
+{"code":400,"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'update_at')"}
+{"code":400,"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'update_at')"}
+{"code":400,"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'update_at')"}

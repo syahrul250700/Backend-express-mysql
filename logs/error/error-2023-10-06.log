@@ -1,0 +1,20 @@
+{"code":500,"level":"error","message":"Cannot read properties of undefined (reading 'getUTCFullYear')"}
+{"code":500,"level":"error","message":"Cannot read properties of undefined (reading 'getUTCHours')"}
+{"code":500,"level":"error","message":"Cannot read properties of undefined (reading 'getUTCHours')"}
+{"code":400,"level":"error","message":"Error: Table 'db_express.proucts' doesn't exist"}
+{"code":400,"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'update_at')"}
+{"code":400,"level":"error","message":"Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''ruls' WHERE id_product='2'' at line 1"}
+{"code":400,"level":"error","message":"Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'update_at='sahrul',created_by='2', update_by=? WHERE id_product=?' at line 1"}
+{"code":400,"level":"error","message":"Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'update_at='sahrul', created_by='2', update_by=? WHERE id_product=?' at line 1"}
+{"code":400,"level":"error","message":"Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'update_at=NULL, created_by='sahrul', update_by='sahrul' WHERE id_product='2'' at line 1"}
+{"code":400,"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'created_at')"}
+{"code":400,"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'created_at')"}
+{"code":400,"level":"error","message":"Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''sahrul' WHERE id_product='2'' at line 1"}
+{"code":400,"level":"error","message":"Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''sahrul' WHERE id_product='2'' at line 1"}
+{"code":400,"level":"error","message":"Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''sahrul' WHERE id_product='2'' at line 1"}
+{"code":400,"level":"error","message":"ReferenceError: update_at is not defined"}
+{"code":400,"level":"error","message":"ReferenceError: name_product is not defined"}
+{"code":400,"level":"error","message":"ReferenceError: name_product is not defined"}
+{"code":500,"level":"error","message":"Cannot read properties of undefined (reading 'getUTCFullYear')"}
+{"code":400,"level":"error","message":"Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?' at line 1"}
+{"code":400,"level":"error","message":"ReferenceError: update_at is not defined"}

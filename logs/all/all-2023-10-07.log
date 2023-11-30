@@ -1,0 +1,7 @@
+{"level":"info","message":"Anda Belum Login"}
+{"code":401,"level":"info","message":"Anda Belum Login"}
+{"code":400,"level":"info","message":"\"password\" is not allowed to be empty"}
+{"code":500,"level":"error","message":"date is not defined"}
+{"code":400,"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'update_at')"}
+{"code":400,"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'update_at')"}
+{"code":400,"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'update_at')"}

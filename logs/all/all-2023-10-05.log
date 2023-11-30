@@ -1,0 +1,127 @@
+{"level":"info","message":"Anda Belum Login"}
+{"code":401,"level":"info","message":"Anda Belum Login"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":401,"level":"info","message":"Error: User tidak ditemukan"}
+{"code":401,"level":"info","message":"Error:  Password Salah"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"level":"info","message":"Anda Belum Login"}
+{"code":401,"level":"info","message":"Anda Belum Login"}
+{"code":401,"level":"info","message":"Error:  Password Salah"}
+{"code":401,"level":"info","message":"Error:  Password Salah"}
+{"level":"info","message":"Anda Belum Login"}
+{"code":401,"level":"info","message":"Anda Belum Login"}
+{"code":401,"level":"info","message":"Error:  Password Salah"}
+{"code":401,"level":"info","message":"Error: User tidak ditemukan"}
+{"level":"info","message":"Anda Belum Login"}
+{"code":401,"level":"info","message":"Anda Belum Login"}
+{"code":401,"level":"info","message":"Error: User tidak ditemukan"}
+{"code":401,"level":"info","message":"Error:  Password Salah"}
+{"level":"info","message":"Anda Belum Login"}
+{"code":401,"level":"info","message":"Anda Belum Login"}
+{"code":401,"level":"info","message":"Error:  Password Salah"}
+{"code":401,"level":"info","message":"Error:  Password Salah"}
+{"code":401,"level":"info","message":"Error:  Password Salah"}
+{"code":401,"level":"info","message":"Error:  Password Salah"}
+{"code":401,"level":"info","message":"Error:  Password Salah"}
+{"code":401,"level":"info","message":"Error:  Password Salah"}
+{"code":400,"level":"info","message":"\"name\" is not allowed. \"email\" is not allowed"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":401,"level":"info","message":"Error: User tidak ditemukan"}
+{"code":400,"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'username')"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":500,"level":"error","message":"input is not defined"}
+{"code":500,"level":"error","message":"input is not defined"}
+{"code":400,"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'username')"}
+{"code":400,"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'username')"}
+{"code":400,"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'username')"}
+{"level":"info","message":"Anda Belum Login"}
+{"code":401,"level":"info","message":"Anda Belum Login"}
+{"code":400,"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'username')"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":400,"level":"info","message":"Error:  Data Users sudah ada"}
+{"code":400,"level":"info","message":"Error:  Data Users sudah ada"}
+{"code":400,"level":"info","message":"Error:  Data Users sudah ada"}
+{"code":400,"level":"info","message":"Error:  Data Users sudah ada"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":400,"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'username')"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":400,"level":"info","message":"Error:  Data Users sudah ada"}
+{"code":400,"level":"info","message":"Error:  Data Users sudah ada"}
+{"code":400,"level":"info","message":"Error:  Data Users sudah ada"}
+{"code":400,"level":"info","message":"Error:  Data Users sudah ada"}
+{"code":400,"level":"info","message":"Error:  Data Users sudah ada"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":400,"level":"info","message":"Error:  Data Users sudah ada"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":500,"level":"error","message":"users_model.refresh_token is not a function"}
+{"code":500,"level":"error","message":"users_model.verify_token is not a function"}
+{"code":500,"level":"error","message":"users_model.verify_Token is not a function"}
+{"code":500,"level":"error","message":"users_model.verify_Token is not a function"}
+{"code":400,"level":"error","message":"ReferenceError: verify_Token is not defined"}
+{"code":400,"level":"error","message":"ReferenceError: verify_Token is not defined"}
+{"code":400,"level":"error","message":"ReferenceError: verify_Token is not defined"}
+{"code":500,"level":"error","message":"users_model.verify_Token is not a function"}
+{"code":500,"level":"error","message":"users_model.verify_Token is not a function"}
+{"code":401,"level":"info","message":"Error:  Password Salah"}
+{"code":401,"level":"info","message":"Error: User tidak ditemukan"}
+{"code":401,"level":"info","message":"Error:  Password Salah"}
+{"code":401,"level":"info","message":"Error: User tidak ditemukan"}
+{"code":500,"level":"error","message":"date is not defined"}
+{"code":400,"level":"error","message":"ReferenceError: update_at is not defined"}
+{"code":400,"level":"error","message":"ReferenceError: update_at is not defined"}
+{"code":400,"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'created_at')"}
+{"code":400,"level":"error","message":"ReferenceError: created_at is not defined"}
+{"code":400,"level":"error","message":"Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?' at line 1"}
+{"code":400,"level":"info","message":"Error:  Data Produk sudah ada"}
+{"code":500,"level":"error","message":"date is not defined"}
+{"code":500,"level":"error","message":"Assignment to constant variable."}
+{"code":400,"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'created_at')"}
+{"code":400,"level":"error","message":"Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?' at line 1"}
+{"code":400,"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'update_at')"}
+{"code":400,"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'update_at')"}
+{"code":400,"level":"error","message":"ReferenceError: date is not defined"}
+{"code":500,"level":"error","message":"Cannot read properties of undefined (reading 'getUTCFullYear')"}
+{"code":500,"level":"error","message":"Assignment to constant variable."}
+{"code":400,"level":"error","message":"ReferenceError: date is not defined"}
+{"code":400,"level":"error","message":"Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?' at line 1"}
+{"code":400,"level":"info","message":"Error:  Data Produk sudah ada"}
+{"code":400,"level":"info","message":"Error:  Data Produk sudah ada"}
+{"code":500,"level":"error","message":"Assignment to constant variable."}
+{"code":400,"level":"error","message":"Error: Column 'update_at' cannot be null"}
+{"code":400,"level":"info","message":"Error:  Data Produk sudah ada"}
+{"code":400,"level":"info","message":"Error:  Data Produk sudah ada"}
+{"code":400,"level":"info","message":"Error:  Data Produk sudah ada"}
+{"code":400,"level":"info","message":"Error:  Data Produk sudah ada"}
